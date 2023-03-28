@@ -1,4 +1,4 @@
-<h1>Chat Bot<h1/>
+<h1>Chat Bot</h1>
 <p>DEMO: https://melnikova26.github.io/ChatBot/</p>
 отвечаeт на следующие вопросы:
 
