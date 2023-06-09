@@ -79,7 +79,10 @@ window.addEventListener('DOMContentLoaded', () => {
             }, 2000);
             main.scrollTop = main.scrollHeight;
         }
+        
     });
+    var screenWidth = window.screen.width;
+        document.querySelector('.header__title').innerHTML = "Ширина экрана: " + screenWidth + " пикселей";
 
     
 });
